@@ -1,4 +1,4 @@
-# josephus-problem
+# Josephus problem
 Simulating josephus problem using p5js, for more info - [josephus-problem](https://en.wikipedia.org/wiki/Josephus_problem).
 
 
@@ -9,3 +9,5 @@ Simulating josephus problem using p5js, for more info - [josephus-problem](https
 * Open the file server from your favorite browser
 * Simulation starts running
 
+# Output
+![simulation](https://cdn-images-1.medium.com/max/720/1*axW4wvxL5paqHQ7orD-z6A.gif?raw=true)
